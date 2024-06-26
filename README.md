@@ -2,13 +2,13 @@ Todo App 📝
 
 Overview 
 
-This application allows users to create, manage, and delete tasks in a todo list format.
+This application allows users to create, edit and delete tasks in a todo list.
 
 Features 
 
 Add new tasks to the list.
 Mark tasks as completed by checking them.
-Edit tasks.
+Edit tasks and save
 Delete tasks from the list.
 
 Live Demo 
